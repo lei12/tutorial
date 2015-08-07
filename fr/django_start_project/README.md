@@ -45,7 +45,7 @@ Le fichier `settings.py` contient la configuration de votre site web.
 
 Vous vous souvenez de l'histoire du postier qui livre des lettres? `urls.py` contient une liste de modèles d'urls utilisés par `urlresolver`.
 
-Ignorons les autres fichiers pour l'instant, nous n'allons pas avoir besoin d'y toucher. Le seul truc aucun il faut faire attention est de ne pas les supprimer par accident!
+Ignorons les autres fichiers pour l'instant, nous n'allons pas avoir besoin d'y toucher. Le seul truc auquel il faut faire attention est de ne pas les supprimer par accident!
 
 ## Changer la configuration
 
